@@ -1,4 +1,4 @@
-## SALES AND FINANCE REPORT [MySQL]
+## SALES AnNALYSIS REPORT [MySQL]
 
 ### **PROJECT OBJECTIVE**
 Generate a report to identify the:
